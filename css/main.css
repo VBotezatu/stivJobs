@@ -1,0 +1,29 @@
+.header-section {
+  height: 500px;
+  background-color: blue;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyj6b1oFzMhqm0iq9z91H18Y-JcOClK3PsoxJIfuNvwlDdt4GpIjIOOCmjLspNgqslMOs&usqp=CAU);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header-text {
+  color: white;
+  font-family: Roboto;
+  text-transform: uppercase;
+  text-align: center;
+}
+.main-item {
+  display: flex;
+  margin-bottom: 40px;
+}
+.main-img {
+  margin-right: 20px;
+}
+.main-text {
+  color: black;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 171.429% */
+  letter-spacing: 0.42px;
+}

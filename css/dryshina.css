@@ -1,0 +1,17 @@
+.container{
+    height: 500px;
+    background-image: url(https://png.pngtree.com/background/20230529/original/pngtree-sunset-int-the-sea-sand-beach-with-palm-trees-wallpaper-background-picture-image_2784187.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 50px;
+}
+.main-title{
+color: white;
+font-size: 75px;
+justify-content: center;
+align-items: center;
+display: flex;
+}
+.main-link{
+    font-size: 30px;
+}

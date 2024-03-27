@@ -1,0 +1,33 @@
+.main-box {
+  height: 500px;
+  outline: solid red;
+  background-image: url(https://img.freepik.com/free-photo/workplace-with-smartphone-laptop-on-black-table-top-view-copyspace-background_144627-24860.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 50px;
+}
+.main-title {
+  color: white;
+  font-size: 75px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.section {
+  display: flex;
+}
+.main-text{
+    margin-left: 20px;
+}
+.last-section{
+    display: flex;
+}
+.last-text{
+    margin-left: 20px;
+}
+.last-img{
+    margin-top: 50px;
+}
+.last-link{
+    font-size: 30px;
+}

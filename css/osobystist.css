@@ -1,0 +1,16 @@
+.container {
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20230518/pngtree-brown-coffee-cup-is-sitting-on-the-table-image_2533518.jpg);
+  height: 500px;
+  background-size: cover;
+  margin-bottom: 50px;
+}
+.main-title{
+    font-size: 100px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.link{
+    font-size: 25px;
+}
